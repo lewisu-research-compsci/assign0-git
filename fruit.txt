@@ -1,12 +1,1 @@
-apple
-mango
-orange
-banana
-peach
-lemon
-plum
-<<<<<<< HEAD
-kiwi
-=======
-date
->>>>>>> BOB: added date to fruit list
+apple-Jrinderer
