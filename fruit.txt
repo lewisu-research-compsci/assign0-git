@@ -3,5 +3,3 @@ peach
 lemon
 plum
 kiwi
-banana
-peach
