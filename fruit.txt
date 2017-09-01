@@ -6,3 +6,4 @@ kiwi
 banana
 peach
 lemon
+plum
