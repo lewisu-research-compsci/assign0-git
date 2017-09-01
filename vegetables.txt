@@ -6,3 +6,4 @@ spinach
 broccoli
 turnip
 potatoe
+potato
