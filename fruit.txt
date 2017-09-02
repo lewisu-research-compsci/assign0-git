@@ -1,14 +1,1 @@
-banna
-peach
-lemon
-plum
-kiwi
-banana
-<<<<<<< HEAD
-=======
-peach
-lemon
-plum
-kiwi
-date
->>>>>>> 0ece708ece4510d40090c9e6967e042cccc05157
+apple
