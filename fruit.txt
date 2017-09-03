@@ -1,9 +1,1 @@
 apple
-mango
-orange
-banana
-peach
-lemon
-plum
-kiwi of alice
-date of Bob
