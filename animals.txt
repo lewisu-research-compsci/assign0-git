@@ -1,6 +1,3 @@
 cow
 pig
 dog
-cow
-pig
-dog
