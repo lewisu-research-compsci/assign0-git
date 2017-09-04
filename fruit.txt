@@ -1,9 +1,1 @@
 apple
-mengo
-banana
-peach
-lemon
-lemon
-plum
-kiwi
-data
