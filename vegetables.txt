@@ -1,9 +1,2 @@
-spinach
-broccoli
 turnip
-potato
-spinach
-broccoli
-turnip
-potatoe
 potato

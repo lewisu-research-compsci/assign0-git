@@ -1,3 +1,12 @@
 apple
 mango
+<<<<<<< HEAD
 orange
+=======
+banana
+peach
+lemon
+plum
+kiwi
+date
+>>>>>>> refs/remotes/origin/master
