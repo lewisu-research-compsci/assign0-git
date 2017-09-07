@@ -1,8 +1,1 @@
 apple
-mango
-orange
-banana
-peach
-lemon
-plum
-kiwi
