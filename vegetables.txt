@@ -7,3 +7,6 @@ potato
 broccoli
 turnip
 potato
+spinach
+broccoli
+turnip
