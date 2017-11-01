@@ -8,9 +8,11 @@ kiwi
 date
 mango
 orange
-banana
-peach
 lemon
 plum
 kiwi
 date
+cherry
+blueberry
+strawberry
+raspberry
